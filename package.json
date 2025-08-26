@@ -4,8 +4,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "start": "bun run cp/main.ts",
-    "dev": "bun run --watch cp/main.ts"
+    "cp": "bun run cp/main.ts",
+    "cpw": "bun run --watch cp/main.ts"
   },
   "devDependencies": {
     "@types/bun": "latest"
