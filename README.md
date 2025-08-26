@@ -1,6 +1,6 @@
-# LeetCode TypeScript Solutions
+# CP Typescript/JavaScript Template
 
-A collection of LeetCode solutions written in TypeScript.
+A basic template for setting up competitive programming local dev env. We are using Bun for running our .ts or .js files
 
 ## Project Structure
 
